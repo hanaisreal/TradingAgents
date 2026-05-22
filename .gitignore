@@ -220,3 +220,6 @@ __marimo__/
 
 # Local dashboard runtime status
 dashboard/status.json
+
+# Paper-trading runtime state and ledger
+.paper_trading/
